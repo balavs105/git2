@@ -1,7 +1,0 @@
-hello hi
-added first line
-<<<<<<< HEAD
-djhgjhjd
-=======
-local branch:
->>>>>>> master
