@@ -8,7 +8,7 @@
   <url>http://maven.apache.org</url>
   <scm>
      <developerConnection>scm:git:https://github.com/balavs105/git2.git</developerConnection>
-    <tag>HEAD</tag>
+     <tag>HEAD</tag>
   </scm>
 
   <dependencies>
